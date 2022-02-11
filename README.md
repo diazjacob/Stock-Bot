@@ -14,8 +14,8 @@ I didn't want to rely on random Twitter or Instagram accounts to get stock updat
 
 ## Did it work?
 
-Yes! I retired this stock bot quicker than I thought I would. After having this stock bot run as a background process for around 20 days, I got a text message at 2pm notifying me of 12 3060 graphics cards available at Memory Express. I happend to be availble and so I ran over and snagged one, sucsess!
+Yes! I retired this stock bot quicker than I thought I would. After having this stock bot run as a background process for around 20 days I got a text message at 2pm notifying me of 12 new Nvidia GTX3060 graphics cards available at Memory Express the moment the information was public. I happend to be availble and so I ran over and snagged one, sucsess!
 
 ## What now?
 
-In the future I'd like to make this bot much more flexible, right now it is quite dependent on many different URI string literals, and it's created to conform to the structure of the data that card seller's in Winnipeg use for their sites.
+In the future I'd like to make this bot much more flexible, right now it is quite dependent on many different URI string literals, and it's created to conform to the structure of the data that card seller's in Winnipeg use for their sites. It would be nice to have it able to check stock for a wider range of items, but the nature of this problem makes that pretty complicated. For now it has the capability to check stock for *any* item at *any* Best Buy or Memory Express.
