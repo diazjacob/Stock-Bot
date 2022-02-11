@@ -90,7 +90,6 @@ celerybeat-schedule
 .env
 .venv
 env/
-venv/
 ENV/
 env.bak/
 venv.bak/
@@ -116,5 +115,7 @@ dmypy.json
 # PyCharm stuff
 .DS_Store
 .idea
+
+*/secrets.py
 
 
