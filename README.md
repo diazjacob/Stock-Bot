@@ -1,5 +1,5 @@
 # Stock Bot
- I was in the market for a new graphics card in late 2021, but stock has been *horrible*. My solution was to create this stock bot to lurk websites.
+ I was in the market for a new graphics card in late 2021, but stock has been *horrible*. My solution was to create this stock bot.
  
 I didn't want to rely on random Twitter or Instagram accounts to get stock updates, so I started researching the process of lurking through websites and using Python to make network requests and parse HTML/JSON. Aside from common Python networking libraries, the core libraries I used/learned were [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Twillow](https://www.twilio.com/docs)
 
